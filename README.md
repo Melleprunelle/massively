@@ -2,8 +2,7 @@
 ### Challenge 2 - Reproduction de l'index du site The is Massively
 
 
-![Zozor](header.jpg *gnop*)
-Barre de séparation
+![Zozor](/header)
 ---
 * Votre mission ~~si vous l'accepter~~ est de reproduire l'index du site internet [The is Massively](http://www.siteduzero.com) !
 * Les *Hovers sont en bonus* si vous avez le temps de les réaliser, dans ce cas, n'hésitez pas à les faires, c'est fun quand on maîtrise la bête.
