@@ -10,3 +10,7 @@
 * Pour le reste, tout est à créer, **soyez vigilant sur les détails**, comme le changement de couleur au passage de la souris ou au clic.
 * Le framework **Boostrap est à utiliser**.
 * **Page Ruler** est un addon de règle pour chrome.
+
+___
+
+Vous avez jusqu'au mardi 6 juin ! Bon courage à tous !
